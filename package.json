@@ -1,0 +1,22 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoon052/jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoon052/jest/issues"
+  },
+  "homepage": "https://github.com/yoon052/jest#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
